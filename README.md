@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ankybot" target="blank"><img src="https://img.shields.io/twitter/follow/ankybot?logo=twitter&style=for-the-badge" alt="ankybot" /></a> </p>
 
-### Blogs posts
+###  About me
+- 🔭 I’m currently working on HTML, CSS 
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on starter React projects
+- 🤔 I’m looking for help with React.js
+- 💬 Ask me about javaScript
+- 😄 Pronouns: He
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
