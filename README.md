@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/ankybot" target="blank"><img src="https://img.shields.io/twitter/follow/ankybot?logo=twitter&style=for-the-badge" alt="ankybot" /></a> </p>
 
 ###  About me:
-- 🔭 I’m currently working on: HTML, CSS and Bootstrap
-- 🌱 I’m currently learning: React.js
-- 👯 I’m looking to collaborate on: Beginner React projects
-- 🤔 I’m looking for help with: React.js
-- 💬 Ask me about: javaScript
+- 🔭 I’m currently working on: HTML, CSS and core javascript
+- 🌱 I’m currently learning: making web-app using plain javascript, HTML and CSS 
+- 👯 I’m looking to contribute in: open-source projects
+- 🤔 I’m looking for help with: open-source contribution
+- 💬 Ask me about: javaScript, problem-solving, web3
 - 😄 Pronouns: He
-- ⚡ Fun fact: javaScript take over my mind😅
+- ⚡ Fun fact: I always lost in javaScript space😅
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
