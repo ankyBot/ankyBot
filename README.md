@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://twitter.com/ankybot" target="blank"><img src="https://img.shields.io/twitter/follow/ankybot?logo=twitter&style=for-the-badge" alt="ankybot" /></a> </p>
 
 ###  About me:
-- 🔭 I’m currently working on: HTML, CSS and core javascript
-- 🌱 I’m currently learning: making web-app using plain javascript, HTML and CSS 
+- 🔭 I’m currently working on: react.js
+- 🌱 I’m currently learning: material UI 
 - 👯 I’m looking to contribute in: open-source projects
 - 🤔 I’m looking for help with: open-source contribution
 - 💬 Ask me about: javaScript, problem-solving, web3
